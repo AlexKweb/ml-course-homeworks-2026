@@ -8,9 +8,14 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+.jupyter/
+.local_share_jupyter/
 
 # macOS
 .DS_Store
 
 # VS Code
 .vscode/
+
+# Local practice notebooks/data
+practice_for_me_not_git/
