@@ -16,7 +16,7 @@ Each homework is stored in a separate folder:
 - hw08_naive_bayes - Наивный Байес
 - hw09_decision_trees - Деревья решений
 - hw10_svm - Метод опорных векторов (SVM)
-- hw11 - Домашнее задание 11
+- hw11_random_forest - Случайный лес
 - hw12 - Домашнее задание 12
 
 ## Требования
