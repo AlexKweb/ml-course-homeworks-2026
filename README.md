@@ -17,7 +17,7 @@ Each homework is stored in a separate folder:
 - hw09_decision_trees - Деревья решений
 - hw10_svm - Метод опорных векторов (SVM)
 - hw11_random_forest - Случайный лес
-- hw12 - Домашнее задание 12
+- hw12_gradient_boosting_lecture - Градиентный бустинг (лекция)
 
 ## Требования
 
