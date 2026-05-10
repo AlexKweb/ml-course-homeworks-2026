@@ -9,6 +9,8 @@ attrs==25.4.0
 babel==2.18.0
 beautifulsoup4==4.14.3
 bleach==6.3.0
+catboost==1.2.10
+category_encoders==2.9.0
 certifi==2026.2.25
 cffi==2.0.0
 charset-normalizer==3.4.5
@@ -22,6 +24,7 @@ executing==2.2.1
 fastjsonschema==2.21.2
 fonttools==4.62.1
 fqdn==1.5.1
+graphviz==0.21
 h11==0.16.0
 httpcore==1.0.9
 httpx==0.28.1
@@ -52,10 +55,12 @@ jupyterlab_server==2.28.0
 jupyterlab_widgets==3.0.16
 kiwisolver==1.5.0
 lark==1.3.1
+lightgbm==4.6.0
 MarkupSafe==3.0.3
 matplotlib==3.10.8
 matplotlib-inline==0.2.1
 mistune==3.2.0
+narwhals==2.18.1
 nbclient==0.10.4
 nbconvert==7.17.0
 nbformat==5.10.4
@@ -67,9 +72,11 @@ packaging==26.0
 pandas==3.0.1
 pandocfilters==1.5.1
 parso==0.8.6
+patsy==1.0.2
 pexpect==4.9.0
 pillow==12.1.1
 platformdirs==4.9.4
+plotly==6.6.0
 prometheus_client==0.24.1
 prompt_toolkit==3.0.52
 psutil==7.2.2
@@ -96,6 +103,7 @@ setuptools==82.0.1
 six==1.17.0
 soupsieve==2.8.3
 stack-data==0.6.3
+statsmodels==0.14.6
 terminado==0.18.1
 threadpoolctl==3.6.0
 tinycss2==1.4.0
@@ -110,7 +118,4 @@ webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.9.0
 widgetsnbextension==4.0.15
-
-# HW02 EDA (plotly + hashing encoder)
-plotly>=6.6.0
-category_encoders>=2.9.0
+xgboost==3.2.0

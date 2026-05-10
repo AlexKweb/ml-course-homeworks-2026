@@ -18,6 +18,7 @@ Each homework is stored in a separate folder:
 - hw10_svm - Метод опорных векторов (SVM)
 - hw11_random_forest - Случайный лес
 - hw12_gradient_boosting_lecture - Градиентный бустинг (лекция)
+- hw13_gradient_boosting_practice - Градиентный бустинг (практика)
 
 ## Требования
 
