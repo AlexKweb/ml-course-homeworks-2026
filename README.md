@@ -19,6 +19,7 @@ Each homework is stored in a separate folder:
 - hw11_random_forest - Случайный лес
 - hw12_gradient_boosting_lecture - Градиентный бустинг (лекция)
 - hw13_gradient_boosting_practice - Градиентный бустинг (практика)
+- hw14_hyperparameter_optimization_interpretability - Подбор гиперпараметров и оптимизация. Интерпретируемость моделей
 
 ## Требования
 
