@@ -91,6 +91,7 @@ ptyprocess==0.7.0
 pure_eval==0.2.3
 pycparser==3.0
 Pygments==2.19.2
+pynndescent==0.6.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 python-json-logger==4.0.0
@@ -122,6 +123,7 @@ tqdm==4.68.2
 traitlets==5.14.3
 typing_extensions==4.15.0
 tzdata==2025.3
+umap-learn==0.5.12
 uri-template==1.3.0
 urllib3==2.6.3
 wcwidth==0.6.0

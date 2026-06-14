@@ -22,6 +22,7 @@ Each homework is stored in a separate folder:
 - hw14_hyperparameter_optimization_interpretability - Подбор гиперпараметров и оптимизация. Интерпретируемость моделей
 - hw16_clustering - Кластеризация
 - hw17_clustering_dbscan - Кластеризация II: DBSCAN
+- hw18_dimensionality_reduction - Снижение размерности: PCA и другие алгоритмы
 
 ## Требования
 
